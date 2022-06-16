@@ -1,3 +1,15 @@
-# Node.js and Express Hosted on Microsoft Azure Template
-This repository serves as a template that can be used to create a Node.js and Express based website that can easily
-be hosted on Microsoft Azure.
+# Full stack Movie Collection with MongoDB
+
+Dependencies:
+Node.js
+express
+bodyParser
+Mongoose
+Node
+
+Steps:
+npm init (with defaults)
+npm install express mongoose body-parser
+
+Very good video on topic:
+https://www.youtube.com/watch?v=ZhqOp1Dkuso
